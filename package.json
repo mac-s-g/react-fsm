@@ -1,0 +1,34 @@
+{
+  "name": "react-fsm",
+  "description": "React Finite State Machine",
+  "version": "0.0.1",
+  "main": "",
+  "files": [
+
+  ],
+  "devDependencies": {
+
+  },
+  "dependencies": {},
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mac-s-g/react-fsm.git"
+  },
+   "keywords": [
+
+   ],
+
+  "license": "MIT",
+  "author": "Mac Gainor",
+  "bugs": {
+    "url": "https://github.com/mac-s-g/react-fsm/issues"
+  },
+  "homepage": "https://github.com/mac-s-g/react-fsm",
+  "directories": {
+    "docs": "docs",
+    "test": "test"
+  }
+}
