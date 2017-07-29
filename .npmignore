@@ -1,0 +1,10 @@
+*.swp
+npm-debug.log
+debug
+docs
+docker
+entrypoints
+example
+.git
+.gitignore
+test
